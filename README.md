@@ -256,5 +256,5 @@ I build research-driven systems at the intersection of software, mathematics, an
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:%23A78BFA,50:%238B5CF6,100:0D1117&height=140&section=footer" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:8B5CF6,100:0D1117&height=140&section=footer" alt="" />
 </p>
